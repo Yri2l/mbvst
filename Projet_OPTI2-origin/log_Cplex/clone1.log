@@ -1,0 +1,19 @@
+
+Log for 'C:\Users\ultra\AppData\Local\Temp\d341e63f870749f1a0d85896e2f17a23-pulp.lp' Clone_1 (V22.1.1.0) Fri Nov 29 00:08:23 2024
+
+Tried aggregator 1 time.
+LP Presolve eliminated 1027503 rows and 47 columns.
+All rows and columns eliminated.
+Presolve time = 0.97 sec. (502.63 ticks)
+Parallel mode: deterministic, using up to 9 threads for concurrent optimization:
+ * Starting dual Simplex on 1 thread...
+ * Starting primal Simplex on 1 thread...
+
+Log for 'C:\Users\ultra\AppData\Local\Temp\d341e63f870749f1a0d85896e2f17a23-pulp.lp' Clone_1 (V22.1.1.0) Fri Nov 29 00:08:24 2024
+
+Using steepest-edge.
+
+Total time on 9 threads = 1.84 sec. (1279.43 ticks)
+
+Dual simplex solved model.
+

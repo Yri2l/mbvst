@@ -1,0 +1,12 @@
+
+Log for 'C:\Users\ultra\AppData\Local\Temp\d341e63f870749f1a0d85896e2f17a23-pulp.lp' Clone_3 (V22.1.1.0) Fri Nov 29 00:08:23 2024
+
+Tried aggregator 1 time.
+LP Presolve eliminated 1027503 rows and 47 columns.
+All rows and columns eliminated.
+Presolve time = 1.01 sec. (485.97 ticks)
+
+Iteration log . . .
+
+Dual simplex solved model.
+

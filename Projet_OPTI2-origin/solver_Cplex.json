@@ -1,0 +1,1 @@
+{"solver": "CPLEX_CMD", "mip": true, "msg": true, "keepFiles": false, "timeLimit": 600, "warmStart": false, "logPath": "./log_Cplex/cplex.log"}
