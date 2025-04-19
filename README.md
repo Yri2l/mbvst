@@ -45,6 +45,3 @@ We implemented and compared multiple approaches, including:
 | `Resultats/`             | Saved outputs and logs                                                      |
 
 
-## 📃 Reference
-
-For full methodology and analysis, see the [project report (PDF)](link-if-you-publish-it).
