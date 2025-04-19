@@ -27,10 +27,23 @@ We implemented and compared multiple approaches, including:
 
 ## 📁 Structure
 
-- `src/`: MILP and ML implementations
-- `data/`: Graph instances used for experiments
-- `results/`: Benchmark timings and model performances
-- `notebooks/`: Visualizations and model evaluations
+| File/Folder              | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| `PLNE_CP.py`             | Flow-based MILP formulation                                                 |
+| `PLNE_CPM.py`            | Multicommodity flow MILP formulation                                        |
+| `PLNE_Martin.py`         | Martin’s formulation                                                        |
+| `PLNE_Cycle.py`          | Cycle-based formulation                                                     |
+| `PLNE_exp.py`            | Experimental runner for MILP models                                         |
+| `edge_prediction.py`     | Main ML pipeline to predict edge inclusion                                  |
+| `logistic_regression.py` | Logistic Regression classifier                                              |
+| `random_forest.py`       | Random Forest classifier                                                    |
+| `Draw.py`                | Graph visualization                                                         |
+| `Outils.py`              | Utility functions (graph parsing, stats, etc.)                              |
+| `main.py`                | Entry point to orchestrate experiments                                      |
+| `solver_Cplex.json`      | Cplex solver settings                                                       |
+| `Instances/`             | Graph instances used in experiments                                         |
+| `Resultats/`             | Saved outputs and logs                                                      |
+
 
 ## 📃 Reference
 
